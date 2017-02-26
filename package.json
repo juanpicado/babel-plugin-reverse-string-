@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-reverse-string",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A babel plugin that reverse any string",
   "main": "dist/index.js",
   "scripts": {
